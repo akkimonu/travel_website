@@ -161,7 +161,7 @@
 .main-text h1 span{
     color: rgb(107, 151, 86);
 }
-.bbok .card{
+.book .card{
     border-radius: 10px;
     box-shadow: 0px 5px 5px -6px black;
 }
@@ -205,6 +205,9 @@ margin-top: 50px;
     .main-text h1{
         padding: 20px;
     }
+}
+.book .card img{
+    height: 450px;
 }
 
 
